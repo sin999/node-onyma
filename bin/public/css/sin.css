@@ -1,0 +1,13 @@
+#target{
+    width: 600px;
+    height:400px;
+    overflow:scroll;
+    font-size: 80%;
+    background-color: #000000;
+}
+.odd {
+    color: darkred;
+}
+.even {
+    color: #3f7122;
+}
